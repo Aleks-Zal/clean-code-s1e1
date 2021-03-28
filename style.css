@@ -50,11 +50,13 @@
 	padding: 0px;
 }
 
-.list-item, .title {
+.list-item,
+.title {
 	list-style: none;
 }
 
-.input, .button {
+.input,
+.button {
 	outline: none;
 }
 
@@ -74,7 +76,8 @@
 
 /* Heading */
 
-.title, .label-task {
+.title,
+.label-task {
 	color: #333;
 	font-weight: 700;
 	font-size: 15px;
